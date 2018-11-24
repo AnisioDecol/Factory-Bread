@@ -1,0 +1,4 @@
+Jogo feito no Construct 2 - Versão 244 
+
+Obs: Para abrir o projeto ter instalado a versão 244 do construct 2 e
+o plugin SpriteFont para que não ocorra algum bug no projeto.
